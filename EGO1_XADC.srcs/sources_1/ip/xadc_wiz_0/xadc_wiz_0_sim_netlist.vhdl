@@ -1,10 +1,10 @@
--- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+-- Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 -- --------------------------------------------------------------------------------
--- Tool Version: Vivado v.2020.1 (win64) Build 2902540 Wed May 27 19:54:49 MDT 2020
--- Date        : Mon Sep 21 10:45:30 2020
--- Host        : LAPTOP-LTO7EJI2 running 64-bit major release  (build 9200)
+-- Tool Version: Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+-- Date        : Mon Sep 21 12:11:29 2020
+-- Host        : LAPTOP-669DQR27 running 64-bit major release  (build 9200)
 -- Command     : write_vhdl -force -mode funcsim
---               d:/EELab/FPGA/HomeWork/EGO1_XADC_DEMO/EGO1_XADC_DEMO.srcs/sources_1/ip/xadc_wiz_0/xadc_wiz_0_sim_netlist.vhdl
+--               g:/project_HDB3/EGO1_XADC/EGO1_XADC.srcs/sources_1/ip/xadc_wiz_0/xadc_wiz_0_sim_netlist.vhdl
 -- Design      : xadc_wiz_0
 -- Purpose     : This VHDL netlist is a functional simulation representation of the design and should not be modified or
 --               synthesized. This netlist cannot be used for SDF annotated simulation.
