@@ -16,6 +16,10 @@ Then you can find ego1 board directory and the guide of how to use it.
 
 You can find reason on this [page]( https://e-elements.readthedocs.io/zh/master/EGo1.html#id10).
 
+## Consequent
+
+![Result](http://leiblog.wang/static/image/2020/9/IMG_1829.gif)
+
 ## Reference
 
 Detail of This board: https://e-elements.readthedocs.io/zh/master/EGo1.html
