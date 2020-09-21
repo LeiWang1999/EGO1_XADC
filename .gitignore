@@ -1,6 +1,6 @@
-\*.cache
-\*.hbs
-\*.ioplanning
-\*.ip_user_files
-\*runs
-\*.sim
+*.cache
+*.hbs
+*.ioplanning
+*.ip_user_files
+*runs
+*.sim
