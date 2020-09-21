@@ -2,4 +2,5 @@
 \*.hbs
 \*.ioplanning
 \*.ip_user_files
+\*runs
 \*.sim
