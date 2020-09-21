@@ -1,0 +1,5 @@
+\*.cache
+\*.hbs
+\*.ioplanning
+\*.ip_user_files
+\*.sim
