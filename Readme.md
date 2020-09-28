@@ -10,7 +10,7 @@ In actual fact, this ego1 board is not so friendly to use, I cannot even find an
 
 First, if you don't know what is board file, you can read my [FPGA Tutorial]( https://github.com/LeiWang1999/EGO1_XADC ) Repo.
 
-Then you can find ego1 board directory and the guide of how to use it.
+Then you can find ego1 board directory and the guide.
 
 **2. Why we use vaux1 channel?**
 
