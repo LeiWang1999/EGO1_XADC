@@ -2,7 +2,7 @@
 
 Example project use xadc with E-element ego1 board, read the resistance of the potentiometer. 
 
-In actual fact, this ego1 board is not so friendly to use, I cannot even find any xadc example code with ego1 board on internet, so i design it myself.
+In actual fact, this ego1 board is no humain-friendly.
 
 ## FAQ
 
